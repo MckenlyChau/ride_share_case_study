@@ -1,0 +1,2 @@
+total_rides,unique_starts,unique_ends,start_date,end_date,unique_customers,unique_drivers,total_distance,total_fare_collected
+50000,25069,25025,"2024-01-01 00:05:00","2024-10-04 11:44:00",9927,300,1276762.04,2871581.19

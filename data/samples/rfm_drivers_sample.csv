@@ -1,0 +1,4 @@
+driver_id,vehicle_id,rating,available,churn_date,distance,recency,frequency,monetary,r_score,f_score,m_score,rfm_segment,rfm_class,estimated_elv
+1,284,2.85,TRUE,2024-09-30,4385.87,4,178,10101.63,1,5,4,154,Other,30305
+2,18,3.08,FALSE,2024-10-04,4433.48,0,177,9922.10,4,4,4,444,"Loyal Earner",39688
+3,298,3.01,TRUE,2024-10-03,4439.99,1,182,10143.30,3,5,4,354,Other,30430

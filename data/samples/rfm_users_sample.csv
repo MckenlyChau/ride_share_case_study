@@ -1,0 +1,4 @@
+user_id,registration_date,age_bucket,gender,location,churn_date,distance,recency,frequency,monetary,r_score,f_score,m_score,rfm_segment,rfm_class,estimated_clv
+1,2024-07-29,18–25,Other,"New Alanside",2024-08-07,102.88,58,3,190.13,2,2,2,222,"Churned Spender",190
+2,2021-10-04,46–55,Male,"New Virginiabury",2024-07-28,109.55,68,5,233.55,2,3,2,232,Other,701
+3,2022-10-07,56–65,Male,"Ethanmouth",2024-08-28,100.25,37,4,248.32,3,2,3,323,"At Risk Spender",497

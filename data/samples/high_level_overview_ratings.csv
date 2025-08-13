@@ -1,0 +1,2 @@
+total_ratings,unique_customers,min_rating,max_rating,unique_comments,earliest_rating,latest_rating
+50000,9920,1,5,24898,"2024-01-01 00:10:00","2024-10-04 11:08:00"
