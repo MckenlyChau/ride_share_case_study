@@ -1336,12 +1336,12 @@ SET estimated_elv =
 |2        |18        |3.08  |FALSE    |2024-10-04       |4433.48 |0      |177      |9922.10 |4      |4      |4      |444        |Loyal Earner   |39688          |
 |3        |298       |3.01  |TRUE     |2024-10-03       |4439.99 |1      |182      |10143.30|3      |5      |4      |354        |Other          |30430          |
 </details>
-j
+
 </details>
 
 ## 🗃️ Cleaned Database
 <details>
-<summary>📚 Contents – Cleaned Database & Export</summsary>
+<summary>📚 Contents – Cleaned Database & Export</summary>
 
 - [🏗️ Create the Database](#️-create-the-database)
 - [📤 Export the Database](#-export-the-database)
